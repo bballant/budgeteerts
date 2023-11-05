@@ -1,5 +1,12 @@
 {
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.6",
     "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "@types/terminal-kit": "^2.5.3",
+    "better-sqlite3": "^9.0.0",
+    "csv-parser": "^3.0.0",
+    "terminal-kit": "^3.0.1"
   }
 }
